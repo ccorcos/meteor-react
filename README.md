@@ -1,4 +1,4 @@
-# React + JSX + ES6 transforms (--harmony) + CJSX for Meteor
+# React + JSX w/ ES6 transforms + CJSX for Meteor
 
 This is a simple package that adds React (with addons), along with JSX and CJSX (coffeescript JSX) transpilers.
 
